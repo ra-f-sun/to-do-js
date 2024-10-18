@@ -41,7 +41,7 @@
 
 <h2>Folder Structure</h2>
 <pre><code>
-📁 todo-app
+📁 to-do-js
  ┣ 📜 index.html           # The main HTML file
  ┣ 📜 styles.css           # The CSS file for styling
  ┣ 📜 script.js            # The JavaScript file for logic
